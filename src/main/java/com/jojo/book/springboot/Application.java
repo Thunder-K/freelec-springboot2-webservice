@@ -7,6 +7,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 //@EnableJpaAuditing
 @SpringBootApplication
 public class Application {
+    //aws 서버 설정중
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
     }
